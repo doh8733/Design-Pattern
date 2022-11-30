@@ -5,5 +5,6 @@ data class User(val name : String,val age : Int) {
     companion object{
         private val name : String = ""
         private val age : String = ""
+        private val brbr : String =""
     }
 }
